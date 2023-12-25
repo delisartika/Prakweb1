@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.error-messages {
+    margin-bottom: 20px;
+}
+
+.form-data {
+    text-align: left;
+}
